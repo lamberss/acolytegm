@@ -1,0 +1,10 @@
+cov-core==1.15.0
+coverage==4.4.1
+nose2==0.6.5
+nose2-cov==1.0a4
+pluggy==0.4.0
+py==1.4.34
+six==1.10.0
+tox==2.7.0
+tox-pyenv==1.0.3
+virtualenv==15.1.0
