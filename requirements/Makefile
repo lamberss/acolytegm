@@ -21,6 +21,8 @@ base.txt: $(setup)
 
 test.txt: base.txt
 
+dev.txt: test.txt
+
 check:
 	@which pip-compile > /dev/null
 

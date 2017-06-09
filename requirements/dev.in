@@ -1,0 +1,5 @@
+-r base.txt
+-r test.txt
+
+# Packages needed for development
+sphinx
