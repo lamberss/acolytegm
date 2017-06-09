@@ -1,0 +1,7 @@
+-r base.txt
+
+# Packages needed to run tests.
+nose2
+nose2-cov
+tox
+tox-pyenv
