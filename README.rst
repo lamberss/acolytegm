@@ -1,7 +1,11 @@
 acolytegm
 #########
 
+|license|
+
 |rtd| |travis-ci| |coveralls|
+
+.. |license| image:: https://img.shields.io/badge/license-Apache%202.0-blue.svg
 
 .. |rtd| image:: https://readthedocs.org/projects/acolytegm/badge/?version=latest
         :target: http://acolytegm.readthedocs.io/en/latest/?badge=latest
