@@ -2,4 +2,5 @@
 -r test.txt
 
 # Packages needed for development
+pylint
 sphinx
