@@ -4,4 +4,3 @@
 nose2
 nose2-cov
 tox
-tox-pyenv

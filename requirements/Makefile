@@ -28,3 +28,6 @@ check:
 
 clean: check
 	- rm *.txt
+
+sync: base.txt test.txt dev.txt
+	pip-sync base.txt test.txt dev.txt
